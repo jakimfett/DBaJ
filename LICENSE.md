@@ -22,13 +22,15 @@ You are expressly prohibited from making or trying to make money from the code, 
 
 This license specifically prohibits you from using AdF.ly or AdF.ly clones (any "click past an ad before you can download" service) to make money or attempt to make money for clicks or downloads.
 
-Specific exceptions to the non-commercial nature of this license are granted to any derivitive works of art. For example, if you make a cool tee-shirt design based off the code and want to sell that, it's completely ok. 
-Want to use the mod as part of a charity event? Go ahead. 
-Make money from Let's Play videos or other "commentary" type uses, eg reviews or how-to videos/tutorials? No problem.
-Ultimately, your work is your own, and this license is designed to protect agains soulless money-grubbing jerks trying to make a quick buck off someone else's work. Any exemptions not listed here require permission from the code author.
+Specific exceptions to the non-commercial nature of this license are granted to any derivitive works of art. Here's some specific exemptions:
+* If you make a cool tee-shirt design based off the code and want to sell that, it's completely ok. 
+* Want to use the mod as part of a charity event? Go ahead. 
+* Make money from Let's Play videos or other "commentary" type uses, eg reviews or how-to videos/tutorials? No problem.
+Ultimately, your work is your own. This license is designed to protect against jerks trying to make money off someone else's work. Any exemptions not listed here require permission from the code author.
 
 This license prohibits any attempt to hold the author liable for damages caused by usage of the mod. Bugs happen, so make backups, and don't complain if your world gets corrupted. Seriously, make backups.
 
 Ultimately, don't be a jerk, play nice, be polite, and you'll be fine.
 
 I reserve the right to change this license at any time, although chances are I won't, because legalese annoys me.
+
