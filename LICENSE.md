@@ -26,6 +26,7 @@ Specific exceptions to the non-commercial nature of this license are granted to 
 * If you make a cool tee-shirt design based off the code and want to sell that, it's completely ok. 
 * Want to use the mod as part of a charity event? Go ahead. 
 * Make money from Let's Play videos or other "commentary" type uses, eg reviews or how-to videos/tutorials? No problem.
+
 Ultimately, your work is your own. This license is designed to protect against jerks trying to make money off someone else's work. Any exemptions not listed here require permission from the code author.
 
 This license prohibits any attempt to hold the author liable for damages caused by usage of the mod. Bugs happen, so make backups, and don't complain if your world gets corrupted. Seriously, make backups.
