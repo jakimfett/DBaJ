@@ -15,7 +15,7 @@ This means that you’re free to pretty much do what you like with the the code 
 * Use portions of the code as examples in a presentation
 * Record portions of gameplay for display on YouTube or other video/media sites
 
-The above usage is granted to you as long as this license remains intact for all original or derived code. Please include a copy of this license with the code, or provide a link to this document.
+The above usage is granted to you as long as this license remains intact for all original or derived code. Please include a copy of this license with the code, or provide a link to this document, just to make sure everyone's as cool as you.
 
 ###Ownership
 This licence specifically prohibits you from claiming the the code or compiled binaries are yours without permission from the previous author(s). 
