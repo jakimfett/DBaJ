@@ -1,7 +1,7 @@
 This computer software code ("the code") is ©2014 jakimfett ("the author") all rights reserved, and is licensed for use and redistribution under the “Don’t Be a Jerk” non-commercial care-free license.
 
 ###Scope
-This means that you’re free to pretty much do what you like with the the code or compiled binaries, including but not limited to:
+This means that you’re free to pretty much do what you like with the the code (source) or compiled binaries (jar/zip/class files), including but not limited to:
 * Download code or compiled binaries for personal use
 * Put the code or compiled binaries into your modpack
 * Fork the repository on github
