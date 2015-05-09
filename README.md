@@ -10,3 +10,6 @@ Feel free to fork, tweak, and re-use some or all of the license for your own pur
 Specifically, it's intended to be used to license Minecraft mods.
 
 Read the license. You might just like it.
+
+
+UPDATE: In the next few months, I'll be switching my mods over to the [MMPLv2](https://github.com/jakimfett/MMPLv2). This license won't go away, but I won't be updating it, and I'd recommend that it not be use for new mods.
